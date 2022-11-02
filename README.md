@@ -1,7 +1,7 @@
 # github-repo-gallery
 # Skillcrush Project - Github Repo Gallery Project
 
-This is a tutorial project I completed with Skillcrush. I followed the instructions given by Skillcrush to create this website that uses the github api to load repositories that are on my github profile.
+This is a tutorial project I completed with [Skillcrush](https://skillcrush.com/). I followed the instructions given by Skillcrush to create this website that uses the github api to load repositories that are on my github profile.
 
 ## Table of contents
 
