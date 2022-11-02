@@ -22,9 +22,11 @@ This is a tutorial project I completed with Skillcrush. I followed the instructi
 Users should be able to:
 
 - View the optimal layout for each page depending on their device's screen size
-- See hover states for all interactive elements throughout the site
-- Make selections to create a coffee subscription and see an order summary modal of their choices at the bottom of the page
-- When click Create your plan have a modal with the order summary and an update monthly price depending on selections made by the user.
+- See profile information from user that the github being fetched for
+- List of all repos that are on that users github account
+- Search for specific repos by name
+- Click on repos to learn more about that project
+- Button to go back to rest of repos list on homepage
 
 ### Screenshot
 
