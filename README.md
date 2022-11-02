@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](./sticky-notes-ui.png)
+![](./github-repo.png)
 
 ### Links
 
