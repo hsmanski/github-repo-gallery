@@ -34,7 +34,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Cofferoasters Site](https://heathersmanski.com/github-repo-site/)
+- Live Site URL: [Github Repos Site](https://heathersmanski.com/github-repo-site/)
 
 ## My process
 
